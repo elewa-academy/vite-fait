@@ -19,4 +19,9 @@ Boolean(5 - 4.5).toString();
 |---|---|---|
 | 0 | (num,5), (num, 4.5) | |
 | | | s0a - s0b |
+| 1 | (num, .5) | | 
+| | | Boolean(s1) |
+| 2 | (bool, true) | | 
+| | | s2.toString |
+| final | (str, 'true') ||
 
