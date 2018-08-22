@@ -17,3 +17,6 @@ Boolean(5 - 4.5).toString();
 
 | step | state  | operation |
 |---|---|---|
+| 0 | (num,5), (num, 4.5) | |
+| | | s0a - s0b |
+
