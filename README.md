@@ -25,3 +25,4 @@ Boolean(5 - 4.5).toString();
 | | | s2.toString |
 | final | (str, 'true') ||
 
+[python tutor](https://goo.gl/6y2DHE)
